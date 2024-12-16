@@ -1,12 +1,12 @@
 <div align="center">
 
-# ZieZzìe
+# ZieZzìe 🐸
 
 <br>
 
 <h2 align="center" style="margin-bottom: 20px;">Hello</h2>
 
-<h2 align="center" style="margin-bottom: 20px;">You can reach me at :alien:</h2>
+<h2 align="center" style="margin-bottom: 20px;">You can reach me at</h2>
 
 </div>
 

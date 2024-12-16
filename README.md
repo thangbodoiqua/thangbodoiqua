@@ -4,8 +4,8 @@
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
-  <a href="[https://dev.to/anhello](https://www.facebook.com/profile.php?id=100012076578486)">
-    <img src="[https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg](https://store-images.s-microsoft.com/image/apps.37935.9007199266245907.b029bd80-381a-4869-854f-bac6f359c5c9.91f8693c-c75b-4050-a796-63e1314d18c9?h=210)" alt="BoMayLaThang" height="30" width="30">
+  <a href="https://www.facebook.com/profile.php?id=100012076578486">
+    <img src="https://store-images.s-microsoft.com/image/apps.37935.9007199266245907.b029bd80-381a-4869-854f-bac6f359c5c9.91f8693c-c75b-4050-a796-63e1314d18c9?h=210" alt="BoMayLaThang" height="30" width="30">
   </a>
 
   <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">

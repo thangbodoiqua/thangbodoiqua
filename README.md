@@ -4,7 +4,7 @@
 
 <br>
 
-<h2 align="center" style="margin-bottom: 10px;">Hi</h2>
+<h2 align="center" style="margin-bottom: 10px;">Chao xìn</h2>
 
 <h3 align="center" style="margin-bottom: 20px;">You can reach me at</h3>
 

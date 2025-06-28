@@ -1,7 +1,9 @@
 <div align="center">
 
 # 🐸
-
+## Ếch ngốc nghếch
+### Stupid frogg
+#Ếch
 <br>
 
 <h2 align="center" style="margin-bottom: 10px;">Chao xìn</h2>

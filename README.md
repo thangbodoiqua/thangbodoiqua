@@ -1,6 +1,5 @@
 <div align="center">
   # 🐸
-  **alo**
   <h2 align="center" style="margin-bottom: 10px;">Chao xìn</h2>
   <h3 align="center" style="margin-bottom: 20px;">You can reach me att</h3>
 </div>

@@ -16,4 +16,10 @@
     <img src="https://sf-static.tiktokcdn.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png" alt="BoMayLaThang" height="50" width="50">
   </a>
 </div>
-
+- Programming Languages
+  - JavaScript
+    - React
+    - Node.js
+  - Python
+    - Django
+    - Flask

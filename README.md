@@ -6,8 +6,8 @@
 
   + Fullname: Nguyen Dinh Thang
   + DOB: 12/08/2004
-  + From: BacNinh, VietNam
-  + 💼 Fiter K2022 at Hanoi University
+  + From: Bac Ninh, Viet Nam
+  + 💼 Fiter K2022 at HaNoi University
 
 **Techs I use**
 <p>

@@ -4,9 +4,9 @@
 
 **About me:**
 
-  + Fullname: Nguyen Dinh Thang
-  + DOB: 12/08/2004
-  + From: Bac Ninh, Viet Nam
+  + Full name: Nguyen Dinh Thang
+  + Birthday: 12/08/2004
+  + From Bac Ninh, Vietnam
   + 💼 Fiter K2022 at HaNoi University
 
 **Techs I use**

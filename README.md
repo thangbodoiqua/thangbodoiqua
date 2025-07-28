@@ -37,6 +37,6 @@
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="BoMayLaThangg" height="35" width="35">
   </a>
    
-  <a href="https://www.tiktok.com/@thangbodoiqua" name="cazidaubuoi">
+  <a href="https://www.tiktok.com/@thangbodoiqua" name="cazicdaubuoi">
     <img src="https://sf-static.tiktokcdn.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png" alt="BoMayLaThang" height="35" width="35">
   </a>
